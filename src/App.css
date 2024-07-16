@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(19,19,19 );
+    color: #fff;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+}
+.hadding{
+    text-align: center;
+}
